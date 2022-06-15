@@ -1,8 +1,8 @@
 
 const fruits = () => {
     if ( true ) {
-        let fruits1 = 'apple';
-        let fruits2 = 'banana';
+        var fruits1 = 'apple';
+        const fruits2 = 'banana';
         let fruits3 = 'kiwi';
     }
 
